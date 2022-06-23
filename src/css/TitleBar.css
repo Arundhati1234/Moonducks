@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap');
+
+.titleBar{
+    background-color: #04643c;
+    width: 100%;
+    position: fixed;
+}
+
+.titleBar h1{
+    color: rgb(205, 228, 217);
+    padding: 10px 20px;
+    font-family: 'Mulish', sans-serif;
+}
